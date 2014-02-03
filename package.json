@@ -19,7 +19,9 @@
 		"underscore": "*",
 		"path-extra": "*",
 		"plist": "*",
-		"hat": "*"
+		"hat": "*",
+		"countdown": "*",
+		"dict": "*"
 	},
 
 	"author": {
